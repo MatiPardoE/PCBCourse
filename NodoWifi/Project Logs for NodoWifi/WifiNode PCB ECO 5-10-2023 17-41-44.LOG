@@ -1,0 +1,5 @@
+Added Component: Designator=X2(AB26TQF)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC15_1 Pin=X2-1
+Added Pin To Net: NetName=NetC16_1 Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-3
